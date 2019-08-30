@@ -111,7 +111,7 @@ import {loadImage} from './loaders.js';
 import SpriteSheet from './SpriteSheet.js';
 
 export function loadMarioSprite(){
-    return loadImage('/img/characters.gif') //타일 이미지 불러오기
+    return loadImage('/img/characters.gif') // 이미지 불러오기
     .then(image => {        
         const sprites = new SpriteSheet(image, 16, 16);
         sprites.define('idle', 276, 44, 16, 16);
