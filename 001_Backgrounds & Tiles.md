@@ -87,6 +87,10 @@ INFO: Accepting connections at http://localhost:5000
 ```
 localhost:5000에서 서버가 시작되었다.
 
+<br>
+
+## 2) 백그라운드 그리기
+1. <code>canvas</code>html 그리기
 
 
 
