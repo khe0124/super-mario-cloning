@@ -59,7 +59,7 @@ Is this OK? (yes)
 ## 2) 서버 설치
 1. <code>npm install serve --save</code>로 설치
 2. package.json 파일에서
-```
+```JSON
 {
   "name": "super-mario",
   "version": "1.0.0",
