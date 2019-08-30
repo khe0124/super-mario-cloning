@@ -1,4 +1,10 @@
 # 001 Backgrounds & Tiles
+meth meth method라는 유튜브 채널의 javascript강좌를 토대로 작업한 것입니다.
+개인 공부용 기록입니다.
+
+- 링크 : https://www.youtube.com/watch?v=g-FpDQ8Eqw8&list=PLS8HfBXv9ZWWe8zXrViYbIM2Hhylx8DZx
+
+
 ## 1) 기본환경 설정
 1. 폴더생성
 2. 터미널켜서 폴더로 경로이동
