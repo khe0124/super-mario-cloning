@@ -175,7 +175,7 @@ export function loadLevel(name) {
 }
 ```
 
-### 3. loaders.js
+### 3. SpriteSheet.js
 ```javascript
 export default class SpriteSheet {
     constructor(image, width, height){
