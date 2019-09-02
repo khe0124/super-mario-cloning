@@ -266,7 +266,8 @@ export function loadLevel(name) {
 ```
 
 ### 6. main.js
-```javascriptimport Timer from './Timer.js';
+```javascript
+import Timer from './Timer.js';
 import {loadLevel} from './loaders.js';
 import {createMario} from './entities.js';
 import {createCollisionLayer} from './layers.js'
@@ -299,7 +300,8 @@ Promise.all([
 ```
 
 ### 8. sprites.js
-```javascriptimport {loadImage} from './loaders.js';
+```javascript
+import {loadImage} from './loaders.js';
 import SpriteSheet from './SpriteSheet.js';
 
 export function loadMarioSprite(){
